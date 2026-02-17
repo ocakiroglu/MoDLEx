@@ -31,7 +31,7 @@ Go to the [Releases](https://www.google.com/search?q=YOUR_GITHUB_RELEASES_LINK) 
 If you prefer to run the script directly:
 
 1. Clone the repository:  
-   git clone \[https://github.com/yourusername/modlex.git\](https://github.com/yourusername/modlex.git)
+   git clone \[https://github.com/ocakiroglu/modlex.git\](https://github.com/ocakiroglu/modlex.git)
 
 2. Install dependencies:  
    pip install PySide6 numpy pillow matplotlib scipy
