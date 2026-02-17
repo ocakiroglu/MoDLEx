@@ -20,7 +20,7 @@ MoDLEx is distributed as a standalone binary for easy use without needing a Pyth
 
 ### **Download Software**
 
-Go to the [Releases](https://www.google.com/search?q=YOUR_GITHUB_RELEASES_LINK) page to download the latest version for your OS:
+Go to the [Releases](https://github.com/ocakiroglu/modlex/releases) page to download the latest version for your OS:
 
 * **Windows:** .exe  
 * **macOS:** .dmg  
@@ -54,4 +54,13 @@ MoDLEx fits your data to the fundamental EBIC decay model:
 $I(x) = I_0 \cdot e^{-x/L} \cdot x^n + y_0$
 
 where $L$ is the carrier diffusion length.
+
+
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## 🙏 Acknowledgments
+
+This code in GUI design stage was developed with coding assistance from **Google's Gemini**, **Github Copilot** and **Claude model via Perplexity**. 
 
