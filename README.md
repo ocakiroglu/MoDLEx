@@ -1,4 +1,4 @@
-# <img src="modlex_icon_64x64.png" alt="Icon" width="16"/>' **MoDLEx: Modern Diffusion Length Extractor**
+# <img src="modlex_icon_64x64.png" alt="Icon" width="64"/> **MoDLEx: Modern Diffusion Length Extractor**
 
 **MoDLEx** is a cross-platform graphical tool designed for researchers to analyze Electron Beam Induced Current (EBIC) data. It provides a workflow to extract the carrier diffusion length (L) from semiconductor materials using curve-fitting algorithms.
 
