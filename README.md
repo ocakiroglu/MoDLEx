@@ -4,7 +4,7 @@
 
 ## **📺 Video Tutorial**
 
-[Watch the Quick Start Guide on YouTube](https://youtu.be/IrZZV2K7wWA)
+[Watch the Quick Start Guide on YouTube](https://www.youtube.com/watch?v=IrZZV2K7wWA)
 
 ## **✨ Key Features**
   
